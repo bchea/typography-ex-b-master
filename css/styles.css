@@ -1,0 +1,8 @@
+/* Your Website Styles */
+p {font-family: 'Sintony', sans-serif;}
+h1 {font-family: 'Emblema One', cursive;}
+h3 {font-family: 'Emblema One', cursive;}
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
